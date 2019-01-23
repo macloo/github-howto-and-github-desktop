@@ -24,8 +24,8 @@ You can write and edit `.md` files in any text editor.
 
 The Atom text editor has a Markdown Preview option &mdash; add it from the Packages menu, in Settings/Preferences.
 
-<img src="../images/markdown.png" alt="Screenshot of Atom editor">
+<img src="../images/markdown.png" alt="Screenshot of Atom editor" width=512>
 
-*Above: Atom Markdown Preview*
+*Above: Atom Markdown Preview / GitHub style toggle*
 
 There’s a nice online viewer/editor for Markdown called [Dillinger](http://dillinger.io/).
