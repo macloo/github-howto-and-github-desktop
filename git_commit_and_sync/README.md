@@ -1,4 +1,4 @@
-# Git Commit and Sync
+# Publish or Push: Git Commit and Sync
 
 Before following these instructions, your HTML and CSS files should be *completely finished and ready for grading.* Save them and close them.
 
