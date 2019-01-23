@@ -1,6 +1,6 @@
 # Command–Line Git
 
-Anything you can do in GitHub Desktop can be done on the command line instead. If you’re new to coding, you might want to wait until you have more experience to start using git commands. There’s nothing wrong with using GitHub Desktop to manage your repos.
+Anything you can do in GitHub Desktop can be done on the command line instead. If you’re new to coding, you might want to wait until you have more experience to start using git commands. There’s nothing wrong with using [GitHub Desktop](../github_basics) to manage your repos.
 
 Here’s the [official reference](https://git-scm.com/docs) for git commands.
 
