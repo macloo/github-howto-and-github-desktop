@@ -42,7 +42,7 @@ Download [GitHub Desktop](https://desktop.github.com/). Also free. If you downlo
 
 I will refer to GitHub Desktop as “the app.”
 
-    Install the app. To see how, go to the Help section for the app: [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started-with-github-desktop/).
+Install the app. To see how, go to the Help section for the app: [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started-with-github-desktop/).
 
 **IMPORTANT:** Using the same Help instructions as needed, LINK your GitHub account to the app. This is called “Authenticating to GitHub.” **Note:** You do not have 2FA or Enterprise.
 
@@ -61,3 +61,5 @@ Your GitHub app is going to coordinate things for you between the web (GitHub) a
 **Go back to the top of this repo now.** To get back to the top of any repo, find the link with the repo’s name in the top left area of the web page (the page you are reading right now). Click the link!
 
 Find the folder named *start_a_new_repo* and open it to read the *README* file there.
+
+Or just [click this link](../start_a_new_repo/) to go there.
