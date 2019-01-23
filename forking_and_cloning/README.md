@@ -46,7 +46,7 @@ Find the button that says “**Clone or download**” (right side, below the For
 
 Click “Open in Desktop,” and your copy of the repo will appear in your GitHub Desktop app. If you are asked to “Launch Application,” do so, even if it’s already open.
 
-<img src="../images/clone.png" alt="How to clone" width=373>
+<img src="../images/clone.png" alt="GitHub's Clone or download button" width=434>
 
 **You will be asked to choose a place on your hard drive for this repo.** Put it inside the exact folder you want it to be in. DO NOT put it on your Desktop! You shouldn’t move it later. DO NOT change the repo name.
 
