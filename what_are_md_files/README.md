@@ -22,6 +22,6 @@ Be sure to check “Allow access to file URLs” in the chrome://extensions list
 
 You can write and edit `.md` files in any text editor.
 
-The Atom text editor has [a Markdown Preview option](../images/markdown.png) — it’s on the Packages menu, in Settings/Preferences.
+The Atom text editor has [a Markdown Preview option](/images/markdown.png) — it’s on the Packages menu, in Settings/Preferences.
 
 There’s a nice online viewer/editor for Markdown called [Dillinger](http://dillinger.io/).
