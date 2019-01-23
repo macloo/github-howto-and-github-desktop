@@ -1,6 +1,6 @@
 # GitHub Basics
 
-These are your instructions for getting started with GitHub.
+These are instructions for getting started with GitHub.
 
 To learn why GitHub is important, you can read:
 
