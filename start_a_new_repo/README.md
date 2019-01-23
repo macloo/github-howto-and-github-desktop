@@ -18,7 +18,7 @@ Previous: [GitHub Basics](../github_basics) &mdash; includes signing up and down
 
 7. You’ll get a popup that says this does not appear to be a Git repository &mdash; and a link says: “create a repository” &mdash; click that link. The link. Not the button.
 
-8. Then **a second window opens,** and you need to uncheck “Keep this code private.” Do not touch the Name. You may write a Description (optional). Be sure to click the “Publish Repository” button here. <img src="../images/publish_repo.png" alt="Screen capture of Publish Repository dialog" width=448>
+8. Then **a second window opens,** and you need to uncheck “Keep this code private.” Do not touch the Name. You may write a Description (optional). Be sure to click the “Publish Repository” button here. <br><img src="../images/publish_repo.png" alt="Screen capture of Publish Repository dialog" width=448>
 
 9. The GitHub Desktop app automatically **commits** all the files in a new repo, BUT **they have not been pushed to GitHub yet.**
 
