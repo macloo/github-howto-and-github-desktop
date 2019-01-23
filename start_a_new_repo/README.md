@@ -16,7 +16,7 @@ Previous: [GitHub Basics](../github_basics) &mdash; includes signing up and down
 
 6. From your Finder or File Explorer window, drag the folder you just made and drop it into the list in the GitHub Desktop app.
 
-7. You’ll get a popup that says this does not appear to be a Git repository &mdash; and a link says: “create a repository” &mdash; click that link. The link. Not the button.
+7. You’ll get a popup that says this does not appear to be a Git repository &mdash; and a link says: “create a repository” &mdash; click that link. The link. Not the button. <br><img src="../images/add_local_repo.png" alt="Screen capture of Add Local Repository dialog" width=399>
 
 8. Then **a second window opens,** and you need to uncheck “Keep this code private.” Do not touch the Name. You may write a Description (optional). Be sure to click the “Publish Repository” button here. <br><img src="../images/publish_repo.png" alt="Screen capture of Publish Repository dialog" width=448>
 
