@@ -14,17 +14,17 @@ Assuming a git repository at that URL, e.g. at GitHub, this copies the complete 
 ```
 git add myfile.html
 ```
-Now that file (which must already exist) is being tracked by git. Use `git add *` to add all files.
+Now that file (which must already exist) is being tracked by git. Use `git add *` to add all files in the repo.
 
 ```
 git commit -m "My commit message"
 ```
-Commit everything that’s been added.
+Commit everything that’s been added. A message is required.
 
 ```
 git status
 ```
-Tells you whether there are uncommitted files, etc.
+Tells you whether there are uncommitted files (changed or new files).
 
 ```
 git push
@@ -34,4 +34,4 @@ Push (upload) all committed files to the online repo (e.g. at GitHub).
 ```
 git pull
 ```
-Download any changes made to the remote repo down to your local machine.
+Bring any changes made to the remote repo down to your local machine.
