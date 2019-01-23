@@ -2,7 +2,7 @@
 
 This is a GitHub repo that explains how to use GitHub and the GitHub Desktop app.
 
-It’s meant to be useful even after you’ve been using GitHub for a while, in case you forget how to do one of the things. So scan the table of contents below, or go straight to [GitHub Basics](../github_basics/).
+It’s meant to be useful even after you’ve been using GitHub for a while, in case you forget how to do one of the things. So scan the table of contents below, or go straight to [GitHub Basics](github_basics/).
 
 * [GitHub Basics](github_basics/) &mdash; includes downloading GitHub Desktop
 * [Your First Repo](start_a_new_repo/) needs edits
