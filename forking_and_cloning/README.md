@@ -16,6 +16,10 @@ To get a complete copy of a repo that we can work with, edit, or add to &mdash; 
 
 If you don't intend to contribute to a repo, there’s no need to fork it. Just download a zipped copy using the “Clone or download” button at GitHub.
 
+<img src="../images/clone.png" alt="GitHub's Clone or download button" width=434)
+
+*From the “Clone or download” button, you can either fork the repo &mdash; “Open in Desktop,” &mdash; or download a zipped folder &mdash; “Download ZIP.”*
+
 ### How to fork
 
 Find the button that says “Fork” near the top of the page, right side, at GitHub.com. WAIT BEFORE YOU CLICK IT. This makes a new, independent copy of the entire repo under YOUR GitHub username. You will have your own copy. As soon as you click “Fork,” you'll be *on YOUR COPY.* Look at the URL in the browser address bar, and you’ll see **your own username** there.
