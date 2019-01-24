@@ -92,9 +92,17 @@ When you have more than one branch in a repo, you might accidentally make change
 
 For example, now that you have *merged* FOOBAR into your *master* branch, you should not make changes to FOOBAR in the other branch.
 
-A *merge conflict* occurs when you try to merge and you’re not merely adding new stuff to *master*. As an example, imagine you wrote some new text into *master*:FOOBAR and then you changed to the other branch and wrote some other text in that branch’s FOOBAR.
+A *merge conflict* occurs when you try to merge and you’re not merely adding new stuff to *master*. As an example, imagine you wrote some new text into *master*:FOOBAR, and then you changed to the other branch and wrote some other text in that branch’s FOOBAR.
 
+<img src="../images/merge_conflict1.png" alt="Merge conflict alert" width=446>
 
+*You try to merge, but there is a conflict.*
+
+<img src="../images/merge_conflict2.png" alt="Merge conflict alert" width=496>
+
+<img src="../images/merge_conflict3.png" alt="Merge conflict alert" width=499>
+
+<img src="../images/merge_conflict4.png" alt="Merge conflict alert" width=495>
 
 
 
