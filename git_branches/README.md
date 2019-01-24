@@ -56,8 +56,11 @@ You should also notice that the third button now says “Publish branch” and n
 
 3. Notice the middle button, “Current Branch” &mdash; now is says *master*.
 
-4. Look at your Finder or File Explorer, at the window containing your repo files. 
+4. Look at your Finder or File Explorer, at the window containing your repo files. FOOBAR is not there!
 
+<img src="../images/change_branches.png" alt="Changing branches with menu in the app" width=365>
+
+*Above: Changing from one branch to another in the app.*
 
 ## See branches in the GitHub app
 
