@@ -4,6 +4,11 @@
 
 Before following these instructions, make sure all files are committed and sync'd.
 
+
++++
+More important, by working only in a branch, later you will be able to make a **pull request** to the original repo. *This can only be done from a branch.* If the owner of the original repo allows it, your branch can then be **merged** into that original, incorporating your changes and new files into it. This is how thousands of people collaborate and contribute to [open-source](https://opensource.com/resources/what-open-source) projects.
++++
+
 Up to now, you have done the following:
 
 1. [Created a GitHub account and signed in.](../github_basics)
