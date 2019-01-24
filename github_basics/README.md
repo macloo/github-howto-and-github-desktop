@@ -30,7 +30,12 @@ GitHub is free unless you want some [special features](https://github.com/pricin
 
 You can have only ONE GitHub account per email address.
 
-A repo can be public or private. Your work for this course will all be public.
+A repo can be public or private. Your work for this course will all be public. Private repos used to be reserved for paid GitHub accounts, but now even free accounts get unlimited private repos.
+
+A GitHub user has a profile and a list of link to all their public repos. These are mine (notice my username, **macloo**, in the URL):
+
+* Profile: https://github.com/macloo
+* Public repos: https://github.com/macloo?tab=repositories
 
 ## Download the GitHub Desktop app
 
