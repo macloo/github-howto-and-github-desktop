@@ -48,19 +48,27 @@ You should also notice that the third button now says “Publish branch” and n
 
 3. In your GitHub Desktop app, *commit* FOOBAR.
 
-### 3. Change branches
+### 3. Change branches in the app
 
 1. Click the “Current Branch” button to open the Branches list.
 
 2. Click *master* in that list.
 
-3. Notice the middle button, “Current Branch” &mdash; now is says *master*.
+3. Notice the middle button, “Current Branch” &mdash; now it says *master*.
 
 4. Look at your Finder or File Explorer, at the window containing your repo files. FOOBAR is not there!
+
+5. Use the Branches list to change branches *again.* Look at your Finder or File Explorer. FOOBAR is back!
 
 <img src="../images/change_branches.png" alt="Changing branches with menu in the app" width=365>
 
 *Above: Changing from one branch to another in the app.*
+
+The important thing to grasp is that git branches are *completely independent of one another.* The app is really handy in letting you see *at a glance* which branch you are in &mdash; just look at the “Current Branch” button.
+
+### 4. Merge a branch into *master*
+
+...
 
 ## See branches in the GitHub app
 
