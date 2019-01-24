@@ -4,7 +4,7 @@ This is the easiest way to start a repo from scratch, in my opinion. Note, this 
 
 Previous: [GitHub Basics](../github_basics) &mdash; includes signing up and downloading **GitHub Desktop**
 
-1. Create a new folder on your own computer. NOT on your Desktop. Create it *inside a folder* where similar work is always kept. If you’re doing coursework, then have a folder for your course, and create this new folder inside that one.
+1. Create a new folder on your own computer. NOT on your Desktop. Create it *inside a folder* where similar work is always kept. If you’re doing coursework, then have a folder for your course, and create this new folder inside that one. **This new folder will BE your repo.**
 
 2. Name the folder as you would want the repo to be named. For example, this repo is named *github-howto-and-github-desktop* &mdash; and that is also the folder name on my computer. Note that GitHub repo names cannot have spaces or punctuation, other than hyphens.
 
@@ -31,3 +31,7 @@ Now open [GitHub.com](https://github.com/) in your web browser. If you’re not 
 *There are three important buttons in the black bar at the top of the GitHub Desktop app.*
 
 Next: [Publish or Push: Git Commit and Sync](../git_commit_and_sync)
+
+<img src="../images/list_of_repos.png" alt="Screenshot of user menu in GitHub" width=388>
+
+*Above: The user menu is a dropdown in the upper right corner of all pages at GitHub.com.*
