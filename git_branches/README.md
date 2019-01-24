@@ -18,7 +18,7 @@ This will only take a few minutes. Use any GitHub repo you already have on your 
 
 Open the repo folder in your Finder or File Explorer on your computer. You should see only the files inside the repo.
 
-### Create a new branch in the app
+### 1. Create a new branch in the app
 
 In the black bar at the top of your GitHub Desktop app, the middle button is the “Branch” button. It says “Current Branch” and (right now) *master*.
 
@@ -34,9 +34,18 @@ Create a new branch named *my-branch*:
 
 <img src="../images/create-branch.png" alt="Branch creation dialog" width=398>
 
-Notice what happened to the bar button bar:
+Notice what happened to the middle button, “Current Branch”:
 
 <img src="../images/branch_in_branch_button.png" alt="Current Branch in the button bar" width=716>
+
+You should also notice that the third button now says “Publish branch” and not “Push origin” or “Fetch origin.” (We won’t publish this branch, though.)
+
+### 2. Create a new file inside the new branch
+
+
+
+
+
 
 ## See branches in the GitHub app
 
