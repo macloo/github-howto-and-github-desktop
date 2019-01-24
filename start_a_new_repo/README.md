@@ -12,9 +12,9 @@ Previous: [GitHub Basics](../github_basics) &mdash; includes signing up and down
 
 4. Open the GitHub Desktop app.
 
-5. At top left inside the app window, click the black bar that says “Current Repository.” This opens a list of all your repos on the computer you are using. If you don’t have any repos yet, of course the list is empty.
+5. At top left inside the app window, click the black bar that says “Current Repository.” This opens **a list of all your repos on the computer you are using.** If you don’t have any repos yet, of course the list is empty.
 
-6. From your Finder or File Explorer window, drag the folder you just made and drop it into the list in the GitHub Desktop app.
+6. From your Finder or File Explorer window, drag the folder you just made and drop it into the list in the app.
 
 7. You’ll get a popup that says this does not appear to be a Git repository &mdash; and a link says: “create a repository” &mdash; click that link. The link. Not the button. <br><img src="../images/add_local_repo.png" alt="Screen capture of Add Local Repository dialog" width=399>
 
@@ -24,7 +24,7 @@ Previous: [GitHub Basics](../github_basics) &mdash; includes signing up and down
 
 10. To upload the file &mdash; and your new repo &mdash; you must click the black bar at top right inside the app window, which says: “Publish.” After publishing the first time, in the future this bar will say either “Push origin” or “Fetch origin.”
 
-Now open [GitHub.com](https://github.com/) in your web browser. If you’re not signed in, sign in. Go to your repositories (there's a menu on the far right side), and you should see your new repo on your own Repositories page.
+11. Now open [GitHub.com](https://github.com/) in your web browser. If you’re not signed in, sign in. Go to “Your Repositories” (there's a menu on the far right side), and you should see your new repo on your own repositories page.
 
 <img src="../images/app_top_bar.png" alt="Screenshot of black bar at top of GitHub Desktop app" width=723>
 
