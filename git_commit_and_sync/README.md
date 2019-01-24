@@ -1,25 +1,22 @@
 # Publish or Push: Git Commit and Sync
 
-Before following these instructions, your HTML and CSS files should be *completely finished and ready for grading.* Save them and close them.
+You may *publish* or *push* files to a GitHub repo at any time. You can push again and again as you develop a project and add new files to it, or when you edit or delete files.
 
-Up to now, you have done the following:
+Each time you push, your new changes are noted and stored. Your previous versions of all files are still accessible to you. You can go back and view a previous version of any file.
 
-1. [Created a GitHub account and signed in.](../github_basics)
-2. [Forked and cloned a repo.](../README.md)
-3. [Created a new branch named *assignment-yourname* and switched to that branch.](../git_branches)
-4. [Completed the assignment about CSS styles.](../assignment)
+Git (and GitHub) is a *version control* system.
 
-## Commit and commit messages
+## Commits, and commit messages
 
 Before you can synchronize your local files (local repo) with GitHub (remote repo), you must **commit** your changes. Git requires this.
 
 A commit is often described as a snapshot. The snapshot records what has changed in this project since your last commit. The list of all commits is a record of all the changes made to the project since it began.
 
-The commit message is your description or explanation of those changes. These messages can be very helpful in collaborative projects. They might be less meaningful for small, solo projects — but you have to write them anyway.
+The **commit message** is your description or explanation of those changes. These messages can be very helpful in collaborative projects. They might be less meaningful for small, solo projects &mdash; but you have to write them anyway.
 
 You can view all commits in a project (shown below in the GitHub Desktop app) and even revert to a previous version. The **History** tab in the app reveals your past commits.
 
-![History tab showing commits in GitHub Desktop](../images/commit_messages.png)
+<img src="../images/commit_messages.png" alt="GitHub Desktop commit messages" width=960>
 
 ## How to commit
 
