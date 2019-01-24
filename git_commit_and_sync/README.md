@@ -18,13 +18,15 @@ You can view all commits in a project (shown below in the GitHub Desktop app) an
 
 <img src="../images/commit_messages.png" alt="GitHub Desktop commit messages" width=960>
 
+*Above: Open the History tab in the app to see a list of all your commits (left). Click any commit to see what you changed that time (right). Old is red, new is green.*
+
 ## How to commit
 
-A good commit message for this case would be: “Completed assignment files.”
+A good commit message might be: “Fixed broken links in all files,” or “Completed assignment.” Just indicate what your latest changes were.
 
-In the **Changes** area of the app, bottom left, type your commit message in the box that says “Summary.” You don’t need a description. Click the button that says “Commit to assignment-yourname.” **Note:** *assignment-yourname* is the name of your branch. If this says “Commit to master,” you have not been working in the correct branch!
+With the **Changes** tab in the app selected, at bottom left you’ll see where to type your commit message. Below that, you don’t need a description. Below the description box is the commit button, which usually says “Commit to master.” **Note:** *master* is the name of the branch you are in. You might have other branches besides *master* &mdash; if you don’t, don’t worry about it.
 
-<img src="../images/app-commit-field.png" alt="GitHub Desktop commit field" width=261>
+<img src="../images/app-commit-field.png" alt="GitHub Desktop commit field" width=262>
 
 **If you change anything** in your files after this, you will need to commit again. Same procedure, but you should write a different message, such as “fixed color error” — describe what you changed.
 
