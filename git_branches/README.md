@@ -20,11 +20,11 @@ Open the repo folder in your Finder or File Explorer on your computer. You shoul
 
 ### Create a new branch in the app
 
-In the black bar at the top of your GitHub Desktop app, the middle button is the “Branch” button.
+In the black bar at the top of your GitHub Desktop app, the middle button is the “Branch” button. It says “Current Branch” and (right now) *master*.
 
 <img src="../images/git-branch.png" alt="Git branch icon" width=60>
 
-Click it to open the Branches list:
+Click it to open the Branches list. You only have one branch, *master*. It has a check mark to show it’s the branch you’re in now.
 
 <img src="../images/branch-example.png" alt="Branches list in the app" width=348>
 
@@ -36,7 +36,7 @@ Create a new branch named *my-branch*:
 
 Notice what happened to the bar button bar:
 
-<img src="../images/branch_in_branch_button" alt="Current Branch in the button bar" width=716>
+<img src="../images/branch_in_branch_button.png" alt="Current Branch in the button bar" width=716>
 
 ## See branches in the GitHub app
 
