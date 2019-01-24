@@ -38,11 +38,13 @@ Notice what happened to the middle button, “Current Branch”:
 
 <img src="../images/branch_in_branch_button.png" alt="Current Branch in the button bar" width=716>
 
-You should also notice that the third button now says “Publish branch” and not “Push origin” or “Fetch origin.” (We won’t publish this branch, though.)
+You should also notice that the third button now says “Publish branch” and not “Push origin” or “Fetch origin.” (We *won’t* publish this branch to GitHub, though.)
 
 ### 2. Create a new file inside the new branch
 
+Using Atom (or any text editor), create a new empty file **inside your repo** and save it **inside your repo**. Name it something that stands out, like FOOBAR.
 
+Take a look at your Finder or File Explorer, at the window containing your repo files. You should see FOOBAR there, as you would expect.
 
 
 
