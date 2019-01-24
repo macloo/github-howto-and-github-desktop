@@ -14,7 +14,7 @@ How do they put it all together then? They **merge** each branch into the *maste
 
 ## Hands-on: Find out how a branch works
 
-This will only take a few minutes. Use any GitHub repo you already have on your computer. Make sure the repo has at least one file in it.
+This will only take a few minutes. Use any GitHub repo you already have on your computer. Make sure the repo has at least one file in it. Make sure everything is committed.
 
 Open the repo folder in your Finder or File Explorer on your computer. You should see only the files inside the repo.
 
@@ -42,11 +42,21 @@ You should also notice that the third button now says “Publish branch” and n
 
 ### 2. Create a new file inside the new branch
 
-Using Atom (or any text editor), create a new empty file **inside your repo** and save it **inside your repo**. Name it something that stands out, like FOOBAR.
+1. Using Atom (or any text editor), create a new empty file **inside your repo** and save it **inside your repo**. Name it something that stands out, like FOOBAR.
 
-Take a look at your Finder or File Explorer, at the window containing your repo files. You should see FOOBAR there, as you would expect.
+2. Take a look at your Finder or File Explorer, at the window containing your repo files. You should see FOOBAR there, as you would expect.
 
+3. In your GitHub Desktop app, *commit* FOOBAR.
 
+### 3. Change branches
+
+1. Click the “Current Branch” button to open the Branches list.
+
+2. Click *master* in that list.
+
+3. Notice the middle button, “Current Branch” &mdash; now is says *master*.
+
+4. Look at your Finder or File Explorer, at the window containing your repo files. 
 
 
 ## See branches in the GitHub app
