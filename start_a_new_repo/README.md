@@ -32,6 +32,6 @@ Now open [GitHub.com](https://github.com/) in your web browser. If you’re not 
 
 Next: [Publish or Push: Git Commit and Sync](../git_commit_and_sync)
 
-<img src="../images/list_of_repos.png" alt="Screenshot of user menu in GitHub" width=388>
+<img src="../images/list_of_repos.png" alt="Screenshot of user menu in GitHub" width=221>
 
 *Above: The user menu is a dropdown in the upper right corner of all pages at GitHub.com.*
