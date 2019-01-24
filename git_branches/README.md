@@ -74,6 +74,17 @@ The important thing to grasp is that git branches are *completely independent of
 
 Let’s imagine FOOBAR is a very important part of your project, so you want to add it to the *master* branch.
 
+1. Make sure the “Current Branch” button says *master*.
+
+2. Open the Branch **menu** at the top of the app &mdash; where the menus are File, Edit, View, Repository, Branch, and Help.
+
+3. Select “Merge into Current Branch ...”
+
+4. In the popup, select the branch you want to merge into *master*, and then click the button at the bottom.
+
+<img src="../images/merge_branches.png" alt="Merge a branch into master" width=445>
+
+
 ...
 
 ## See branches in the GitHub app
