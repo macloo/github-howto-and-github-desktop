@@ -30,24 +30,18 @@ With the **Changes** tab in the app selected, at bottom left you’ll see where 
 
 **If you change anything** in your files after this, you will need to commit again. Same procedure, but you should write a different message, such as “fixed color error” — describe what you changed.
 
-## How to sync, or push
+## Don’t forget to push &mdash; this syncs remote and local
 
-Do this **after you commit.** You can make many commits, or one, before you push. In other words, you do not need to push every time you commit.
+Do this **after you commit.** You can make many commits, or one, before you push. In other words, *you do not need to push every time you commit.*
 
-In the app, you'll find a “Push origin” button at the top. To push your changes up to GitHub.com, click the button. If the button says “Fetch origin,” you have not committed any changes.
+In the app, you’ll see the “Push origin” button at top right whenever you have committed changes. To push your changes up to GitHub.com, click the button. If the button says “Fetch origin,” you have no committed changes.
 
-**Note:** If you have not published this branch yet, the button will say “Publish branch,” not “Push origin.” Click that.
+COMMIT, then PUSH.
+
+**Note:** If you have not published this branch yet, the button will say “Publish,” not “Push origin.” Click that.
 
 By pushing, you make your remote repo (at GitHub) match your local repo (on your hard drive), providing a backup for your work. By keeping local and remote repos synchronized, you can protect your work and also share it with other people.
 
-Look at your repo on **github.com** and check to see that your files are there, in the *assignment-yourname* branch, in the *assignment* folder.
+Look at your repo on **github.com** and check to see that your files are there.
 
-## Check the rubric
-
-Make sure you have done everything listed in the [rubric](../rubric).
-
-If so, submit the complete URL of your GitHub repo in Canvas.
-
-If you need to change anything in your files: After changing and saving them in your text editor, re-follow the steps on this page to commit again and push.
-
-**If you do not push, I will NOT see your changes.**
+Next: [Git Branches](../git_branches)
