@@ -32,7 +32,7 @@ You can have only ONE GitHub account per email address.
 
 A repo can be public or private. Your work for this course will all be public. Private repos used to be reserved for paid GitHub accounts, but now even free accounts get unlimited private repos.
 
-A GitHub user has a profile and a list of link to all their public repos. These are mine (notice my username, **macloo**, in the URL):
+A GitHub user has a profile and a list of links to all their public repos. These are mine (notice my username, **macloo**, in the URL):
 
 * Profile: https://github.com/macloo
 * Public repos: https://github.com/macloo?tab=repositories
@@ -45,7 +45,7 @@ Download [GitHub Desktop](https://desktop.github.com/). Also free. If you downlo
 
 *On the GitHub Desktop menu (Mac) or the File menu (Windows), open “About GitHub Desktop” to check that you’ve got the latest version.*
 
-I will refer to GitHub Desktop as “the app.”
+I will refer to GitHub Desktop as “the app.” You will use the app to coordinate files in a project between your computer (local) and GitHub.com (remote).
 
 Install the app. To see how, go to the Help section for the app: [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started-with-github-desktop/).
 
