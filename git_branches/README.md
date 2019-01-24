@@ -86,7 +86,13 @@ Let’s imagine FOOBAR is a very important part of your project, so you want to 
 
 Now FOOBAR is also in your *master* branch!
 
+## Avoiding merge conflicts
 
+When you have more than one branch in a repo, you might accidentally make changes in the wrong branch.
+
+For example, now that you have *merged* FOOBAR into your *master* branch, you should not make changes to FOOBAR in the other branch.
+
+A *merge conflict* occurs when you try to merge and you’re not merely adding new stuff to *master*. As an example, imagine you wrote some new text into *master*:FOOBAR and then you changed to the other branch and wrote some other text in that branch’s FOOBAR.
 
 
 
