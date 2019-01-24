@@ -92,19 +92,23 @@ When you have more than one branch in a repo, you might accidentally make change
 
 For example, now that you have *merged* FOOBAR into your *master* branch, you should not make changes to FOOBAR in the other branch.
 
-A *merge conflict* occurs when you try to merge and you’re not merely adding new stuff to *master*. As an example, imagine you wrote some new text into *master*:FOOBAR, and then you changed to the other branch and wrote some other text in that branch’s FOOBAR.
+A *merge conflict* occurs when you try to merge and you’re not merely adding new stuff to *master*. As an example, imagine you wrote some new text into *master*:FOOBAR, and then you changed to the other branch and wrote some other text in that branch’s FOOBAR. The following images show you how to *resolve the merge conflict* using the GitHub Desktop app and Atom.
 
 <img src="../images/merge_conflict1.png" alt="Merge conflict alert" width=446>
 
-*You try to merge, but there is a conflict.*
+*Above: You try to merge, but there is a conflict. Click the button at the bottom of the dialog above.*
 
 <img src="../images/merge_conflict2.png" alt="Merge conflict alert" width=496>
 
+*Above: You need to open the file in Atom, or your default editor. Click the menu that says “Open in Atom” and select default editor.*
+
 <img src="../images/merge_conflict3.png" alt="Merge conflict alert" width=499>
+
+*Above: This is git’s attempt to merge two conflicting files. Lines 1, 3, and 7 are inserted by git to indicate the file's contents in the two versions. Delete those three lines, edit as needed, and save the file.*
 
 <img src="../images/merge_conflict4.png" alt="Merge conflict alert" width=495>
 
-
+*Above: Everything’s fine. Just click the button.*
 
 
 Branches are a standard part of
