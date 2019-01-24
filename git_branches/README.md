@@ -60,13 +60,19 @@ You should also notice that the third button now says “Publish branch” and n
 
 5. Use the Branches list to change branches *again.* Look at your Finder or File Explorer. FOOBAR is back!
 
+How to change branches:
+
 <img src="../images/change_branches.png" alt="Changing branches with menu in the app" width=365>
 
 *Above: Changing from one branch to another in the app.*
 
 The important thing to grasp is that git branches are *completely independent of one another.* The app is really handy in letting you see *at a glance* which branch you are in &mdash; just look at the “Current Branch” button.
 
+**Note:** When you are in the *master* branch, the new file is not only missing from your Finder or File Explorer &mdash; it’s also missing from Atom. It’s not available *anywhere* unless you’re in the branch where it exists.
+
 ### 4. Merge a branch into *master*
+
+Let’s imagine FOOBAR is a very important part of your project, so you want to add it to the *master* branch.
 
 ...
 
