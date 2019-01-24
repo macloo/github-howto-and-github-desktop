@@ -1,18 +1,48 @@
 # Git Branches
 
-Now you're going to do something rather sophisticated in your GitHub app.
+Previous: [Publish or Push: Git Commit and Sync](../git_commit_and_sync)
 
-You're going to create a new **branch.** This will enable you to make changes and even create new files without affecting any of the original files in your repo.
+Now you’re going to do something rather sophisticated in your GitHub app.
 
-More important, by working only in a branch, later you will be able to make a **pull request** to the original repo. *This can only be done from a branch.* If the owner of the original repo allows it, your branch can then be **merged** into that original, incorporating your changes and new files into it. This is how thousands of people collaborate and contribute to [open-source](https://opensource.com/resources/what-open-source) projects.
+You’re going to create a new **branch.** This will enable you to make changes and even create new files *without affecting any of the original files* in your repo.
 
-Before you create a branch, make sure you have done everything [here](../github_basics) and [here](../README.md). Don't skip anything.
+Why would you want to do that? The usual reason: You want to create something new and get it working perfectly without risk to everything else in your repo.
+
+Teams of people working together to build software or large websites will use branches to isolate one feature (one part of the project) from the others, so that everyone on the team can develop separate parts of the project all at the same time. No one is waiting for anyone else to finish. No one will hurt anyone else’s work.
+
+How do they put it all together then? They **merge** each branch into the *master* branch, one branch at a time.
+
+## Hands-on: Find out how a branch works
+
+This will only take a few minutes. Use any GitHub repo you already have on your computer. Make sure the repo has at least one file in it.
+
+Open the repo folder in your Finder or File Explorer on your computer. You should see only the files inside the repo.
+
+### Create a new branch in the app
+
+In the black bar at the top of your GitHub Desktop app, the middle button is the “Branch” button.
+
+<img src="../images/git-branch.png" alt="Git branch icon" width=60>
+
+Click it to open the Branches list:
+
+<img src="../images/branch-example.png" alt="Branches list in the app" width=348>
+
+Click the “New Branch” button.
+
+Create a new branch named *my-branch*:
+
+<img src="../images/create-branch.png" alt="Branch creation dialog" width=398>
+
+Notice what happened to the bar button bar:
+
+<img src="../images/branch_in_branch_button" alt="Current Branch in the button bar" width=716>
 
 ## See branches in the GitHub app
 
 First find the Branch button near the top left of the app window. THE APP. Not the website. THE APP. The Branch button has the **branch icon**:
 
-![GitHub branch icon](../images/git-branch.png)
+
 
 To the right of the Branch icon is the name of the current branch. Right now, that is *master.* The first branch of a repo is always named *master* by default.
 
