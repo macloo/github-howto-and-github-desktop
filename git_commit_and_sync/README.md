@@ -1,5 +1,10 @@
 # Publish or Push: Git Commit and Sync
 
+Previous:
+
+* [GitHub Basics](../github_basics) &mdash; includes downloading **GitHub Desktop**
+* [Your First Repo](../start_a_new_repo) (Start a New Repo)
+
 You may *publish* or *push* files to a GitHub repo at any time. You can push again and again as you develop a project and add new files to it, or when you edit or delete files.
 
 Each time you push, your new changes are noted and stored. Your previous versions of all files are still accessible to you. You can go back and view a previous version of any file.
