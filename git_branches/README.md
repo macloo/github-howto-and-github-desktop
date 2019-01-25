@@ -86,7 +86,7 @@ Let’s imagine FOOBAR is a very important part of your project, so you want to 
 
 Now FOOBAR is also in your *master* branch!
 
-## Avoiding merge conflicts
+## Fixing a merge conflict
 
 When you have more than one branch in a repo, you might accidentally make changes in the wrong branch.
 
@@ -108,8 +108,17 @@ A *merge conflict* occurs when you try to merge and you’re not merely adding n
 
 <img src="../images/merge_conflict4.png" alt="Merge conflict alert" width=495>
 
-*Above: Everything’s fine. Just click the button.*
+*Above: Everything’s fine. Just click the “Commit merge” button.*
 
+## Summary
+
+When you create a new branch, it is an exact copy of *master*.
+
+If you make changes inside the new branch, they will not be part of *master*. The opposite is also true: changes in *master* do not affect other branches.
+
+You can see only one branch at a time. Switch branches using the app’s “Current Branch” button.
+
+If you want to add the contents of one branch into another branch, you do a merge.
 
 Branches are a standard part of
-[GitHub Flow](https://guides.github.com/introduction/flow/), which many coding teams use as a normal part of their work.
+[GitHub Flow](https://guides.github.com/introduction/flow/), which many developer teams use as a normal part of their work.
