@@ -125,5 +125,5 @@ Branches are a standard part of
 
 Next:
 
-* [gh-pages](../gh-pages) &mdash; free websites from GitHub 
-* [Git Pull Requests](git_pull_requests/)
+* [gh-pages](../gh-pages) &mdash; free websites from GitHub
+* [Git Pull Requests](../git_pull_requests)
