@@ -41,3 +41,9 @@ If you just want one branch, and everything in *master* will be on the website, 
 <img src="../images/set-gh-pages.png" alt="Set gh-pages defaults" width=426>
 
 In this case, every change you make to the repo will automatically be published to the website.
+
+## Another alternative
+
+It is also possible to have *completely different files* in the *master* branch and the *gh-pages* branch. This might be practical if you intend your GitHub.com repo for sharing code (naturally) and the **github.io** website to explain that code (telling people how to use the code).
+
+In other words, there’s no absolute need to have the *master* and *gh-pages* branches match &mdash; unless the two are supposed to mirror each other (for example, if the two represent an assignment in a coding course and they are expected to be identical).
