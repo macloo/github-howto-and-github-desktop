@@ -1,3 +1,0 @@
-I have added some text here.
-
-The file here has changes. This line is new.
