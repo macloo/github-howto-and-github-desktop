@@ -2,7 +2,7 @@
 
 This is the easiest way to start a repo from scratch, in my opinion. Note, this is a repo you are creating &mdash; you did NOT fork and clone.
 
-Previous: [GitHub Basics](../github_basics) &mdash; includes signing up and downloading **GitHub Desktop**
+Previous: [GitHub Basics](../github_basics) &mdash; includes signing up for GitHub and downloading **GitHub Desktop**
 
 1. Create a new folder on your own computer. NOT on your Desktop. Create it *inside a folder* where similar work is always kept. If you’re doing coursework, then have a folder for your course, and create this new folder inside that one. **This new folder will BE your repo.**
 
@@ -14,7 +14,7 @@ Previous: [GitHub Basics](../github_basics) &mdash; includes signing up and down
 
 5. At top left inside the app window, click the black bar that says “Current Repository.” This opens **a list of all your repos on the computer you are using.** If you don’t have any repos yet, of course the list is empty.
 
-6. From your Finder or File Explorer window, drag the folder you just made and drop it into the list in the app.
+6. From your Finder or File Explorer window, drag the folder you just made and **drop it into the list in the app.**
 
 7. You’ll get a popup that says this does not appear to be a Git repository &mdash; and a link says: “create a repository” &mdash; click that link. The link. Not the button. <br><img src="../images/add_local_repo.png" alt="Screen capture of Add Local Repository dialog" width=399>
 
@@ -30,8 +30,8 @@ Previous: [GitHub Basics](../github_basics) &mdash; includes signing up and down
 
 *There are three important buttons in the black bar at the top of the GitHub Desktop app.*
 
-Next: [Publish or Push: Git Commit and Sync](../git_commit_and_sync)
-
 <img src="../images/list_of_repos.png" alt="Screenshot of user menu in GitHub" width=221>
 
 *Above: The user menu is a dropdown in the upper right corner of all pages at GitHub.com.*
+
+Next: [Publish or Push: Git Commit and Sync](../git_commit_and_sync)
