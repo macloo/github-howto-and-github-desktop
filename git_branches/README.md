@@ -122,3 +122,8 @@ If you want to add the contents of one branch into another branch, you do a merg
 
 Branches are a standard part of
 [GitHub Flow](https://guides.github.com/introduction/flow/), which many developer teams use as a normal part of their work.
+
+Next:
+
+* [gh-pages](../gh-pages) &mdash; free websites from GitHub 
+* [Git Pull Requests](git_pull_requests/)
