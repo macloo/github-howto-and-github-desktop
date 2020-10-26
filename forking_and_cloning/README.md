@@ -16,7 +16,7 @@ To get a complete copy of a repo that we can work with, edit, or add to &mdash; 
 
 If you don't intend to contribute to a repo, there’s no need to fork it. Just download a zipped copy using the “Clone or download” button at GitHub.
 
-<img src="../images/download.png" alt="GitHub's Clone or download button" width=434>
+<img src="../images/download_zip.png" alt="GitHub's Clone or download button" width=387>
 
 *From the “Clone or download” button, you can either fork the repo &mdash; “Open in Desktop,” &mdash; or download a zipped folder &mdash; “Download ZIP.”*
 
