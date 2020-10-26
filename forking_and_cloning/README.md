@@ -48,7 +48,7 @@ Find the button that says “**Code**” and click it.
 
 Then click the black text “Open with GitHub Desktop.” Your GitHub Desktop app should already be open.
 
-**IMPORTANT NOTE:** Where it says “https://github.com/macloo/datasette” in my screenshot below &mdash; yours will say “https://github.com/yourname/CSS-and-GitHub-intro” instead. DO NOT CHANGE THIS.
+**IMPORTANT NOTE:** Where it says “https://github.com/macloo/datasette” in my screenshot below &mdash; yours will say “https://github.com/yourname/name-of-some-repo” instead. DO NOT CHANGE THIS.
 
 <img src="../images/clone1.png" alt="Click the Code button and click Open with GitHub Desktop" width=370>
 
