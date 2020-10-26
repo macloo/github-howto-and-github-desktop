@@ -76,24 +76,6 @@ If you get an error message, double-check that you have followed the steps above
 
 You have the exact same repo &mdash; all the files &mdash;  BOTH on your GitHub online AND locally on your own computer.
 
-zzzzzzzzzz ## Cloning a repo
-
-**IMPORTANT NOTE:** Before you CLONE a repo, *make sure* you are on **your own** GitHub.com page for that repo.​ The one you FORKED. Do not clone it from another user’s GitHub page, where the URL includes THEIR username. Clone it from *your own* GitHub, where the URL includes YOUR username.
-
-Find the button that says “**Clone or download**” (right side, below the Fork button”). Click it.
-
-Click “Open in Desktop,” and your copy of the repo will appear in your GitHub Desktop app. If you are asked to “Launch Application,” do so, even if it’s already open.
-
-<img src="../images/clone.png" alt="GitHub's Clone or download button" width=440>
-
-**You will be asked to choose a place on your hard drive for this repo.** Put it inside the exact folder you want it to be in. DO NOT put it on your Desktop! You shouldn’t move it later. DO NOT change the repo name.
-
-**Clone** uses your app (GitHub Desktop) to make a copy of the entire repo on your hard drive, and this copy is *tethered* to the version on the GitHub.com site. You *might* clone a repo more than once, in some circumstances.
-
-If you get an error message, double-check that you have followed the steps above correctly.
-
-## What you should have now
-
 At GitHub.com, when you go to your user page/profile, you’ll see a link to your new repo (click it to view the repo). If you were on the **Repositories** tab, you'll need to **reload** the page to see the new repo.
 
 On your hard drive, you’ll see a folder with the *same name* as that repo. *Do not change the name!* (These two are tethered together, thanks to Git.) Where is that folder? It is where you told it to be saved, when you cloned it.
