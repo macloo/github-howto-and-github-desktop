@@ -50,7 +50,7 @@ Then click the black text “Open with GitHub Desktop.” Your GitHub Desktop ap
 
 **IMPORTANT NOTE:** Where it says “https://github.com/macloo/datasette” in my screenshot below &mdash; yours will say “https://github.com/yourname/CSS-and-GitHub-intro” instead. DO NOT CHANGE THIS.
 
-<img src="images/clone1.png" alt="Click the Code button and click Open with GitHub Desktop" width=370>
+<img src="../images/clone1.png" alt="Click the Code button and click Open with GitHub Desktop" width=370>
 
 ### Step 2
 
@@ -60,13 +60,13 @@ Where it says “Local Path,” that’s where the repo will be on YOUR COMPUTER
 
 Finally, after that, click the **Clone** button.
 
-<img src="images/clone2.png" alt="Clone the repo to your own computer" width=498>
+<img src="../images/clone2.png" alt="Clone the repo to your own computer" width=498>
 
 ### Step 3
 
 In the popup seen below, click “For my own purposes” and then click the **Continue** button.
 
-<img src="images/clone3.png" alt="How are you planning to use this fork?" width=475>
+<img src="../images/clone3.png" alt="How are you planning to use this fork?" width=475>
 
 If you get an error message, double-check that you have followed the steps above correctly.
 
